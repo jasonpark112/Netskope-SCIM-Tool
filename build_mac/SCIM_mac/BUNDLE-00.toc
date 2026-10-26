@@ -1,0 +1,3 @@
+([('SCIM_mac',
+   '/Users/parkjiho/Desktop/아이티언/SCIM_Tool(win,mac)/dist_mac/SCIM_mac',
+   'EXECUTABLE')],)
